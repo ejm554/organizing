@@ -9,7 +9,8 @@ The following "elements" represent existing materials or systems that have have 
 | T-Slot  |  |
 | Unistrut | |
 | System 32 | ![Shelf with 5 mm holes at 32 mm intervals](https://upload.wikimedia.org/wikipedia/commons/b/be/2017_UEF_Joensuu_library_06_shelf.jpg)|
-| Systainer | ![Systainer containers from multiple manufacturers](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg/1280px-Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg)
+| Systainer | ![Systainer containers from multiple manufacturers](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg/1280px-Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg) |
+| [French cleat](../elements/french-cleat.md) | ![mounted French cleat with fixture](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143122/CWHI_Summer2025_french_cleats_1.jpg)|
 
 ## Grid Beam
 
@@ -94,16 +95,13 @@ Image(s):
 
 Photo credit: [canadianwoodworking.com](https://canadianwoodworking.com/techniques_and_tips/use-french-cleats-to-organize-your-workshop/)
 
-// Source - https://stackoverflow.com/a/66407948
-// Posted by Shehan Hasintha
-// Retrieved 2026-08-02, License - CC BY-SA 4.0
-
+---
+<!-- CSS definitions -->
 <style>
-img { width: 200px; }
-
-mark{
-    color:red;
-}
+  img { width: 200px; }
+  mark { color:red; }
 </style>
 
-<mark>what is DataBase</mark>
+<!--
+<mark>This text will be surrounded by red.</mark>
+-->
