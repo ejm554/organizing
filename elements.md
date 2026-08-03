@@ -66,9 +66,12 @@ Image(s):
 
 ## Euro container / Eurobox
 
+- Compatible with Euro-pallet
+
 ## Systainer
 
-- Modular inter-stacking plastic containers used for transporting power tools. Boxes from different manufacturers are compatible and can be stacked and clipped together
+- Modular inter-stacking plastic containers used for transporting power tools.
+- Boxes from different manufacturers are compatible and can be stacked and clipped together
 - May use four joining clips or a "T-Loc" that uses a rotating handle
 - Different types/styles/heights; see [Wikipedia page](https://en.wikipedia.org/wiki/Systainer)
 - Related: Sortimo L-BOXX, Dewalt Tough system
@@ -94,6 +97,12 @@ Image(s):
 ![application of French cleat system](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143140/CWHI_Summer2025_french_cleats_13.jpg)
 
 Photo credit: [canadianwoodworking.com](https://canadianwoodworking.com/techniques_and_tips/use-french-cleats-to-organize-your-workshop/)
+
+## Electrical conduit
+
+## Lighting stands
+
+## Camera/photography mounts
 
 ---
 <!-- CSS definitions -->
