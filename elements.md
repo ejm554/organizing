@@ -3,20 +3,36 @@
 The following "elements" represent existing materials or systems that have have potential of adopting in a system of organizing. Some might also be able to be integrated with each other.
 
 <!-- Start of Markdown table -->
-|  |  |
+| element | image |
 | :--- | :--- |
+| [2x4 Brackets]() |   |
+| [Beam CNC]() |   |
+| [Bolt-Together Framing and Fittings]() |   |
+| [Camera/photography mounts]() |   |
 | [Cardboard]() |  |
+| [Contraptor]() |   |
+| [Electrical conduit]() |   |
+| [Euro container / Eurobox]() |   |
+| [Euro-pallet]() |   |
 | [French cleat](../element-details/french-cleat.md) |  |
-| [Grid Beam]() |  |
+| [Grid Beam]()<br>- Tiny LEGO-compatible version: Bit beam	 |  |
+| [Iron Pipe]() |   |
+| [Lighting stands]() |   |
+| [Makedo cardboard fasteners and tools]() |   |
+| [OpenStructures (OS)]() |   |
+| [Palisters, Standards, Brackets]() |   |
+| [Press-Fit Framing and Fittings]() |   |
+| [Strut Channel Framing and Fittings]() |   |
 | [Systainer]() | ![Systainer containers from multiple manufacturers](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg/1280px-Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg>) |
 | [System 32]() | ![Shelf with 5 mm holes at 32 mm intervals](<https://upload.wikimedia.org/wikipedia/commons/b/be/2017_UEF_Joensuu_library_06_shelf.jpg>) |
 | [T-Slot]() |  |
+| [T-Slotted Framing and Fittings]() |   |
+| [Threaded rods]() |   |
 | [Unistrut]() |  |
+| [Wood dowels]() |   |
 <!-- End of Markdown table -->
 
 ## Grid Beam
-
-- Bit beam
 
 ## Contraptor
 
