@@ -7,10 +7,8 @@ The following "elements" represent existing materials or systems that have have 
 | :--- | :--- |
 | [2x4 Brackets](../element-pages/2x4_brackets.md) |   |
 | [Beam CNC](../element-pages/beam_cnc.md) |   |
-| [Bolt-Together Framing and Fittings](../element-pages/bolt-together_framing_and_fittings
-.md) |   |
-| [Camera/photography mounts](../element-pages/camera_photography_mounts
-.md) |   |
+| [Bolt-Together Framing and Fittings](../element-pages/bolt-together_framing_and_fittings.md) |   |
+| [Camera/photography mounts](../element-pages/camera_photography_mounts.md) |   |
 | [Cardboard](../element-pages/cardboard.md) |  |
 | [Contraptor](../element-pages/contraptor.md) |   |
 | [Electrical conduit](../element-pages/electrical_conduit.md) |   |
