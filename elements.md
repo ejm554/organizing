@@ -32,15 +32,6 @@ The following "elements" represent existing materials or systems that have have 
 | [Wood dowels](../element-pages/wood_dowels.md) |   |
 <!-- End of Markdown table -->
 
-## Grid Beam
-
-## Contraptor
-
-## Palisters, Standards, Brackets
-
-## Beam CNC
-
-## 2x4 Brackets
 
 ## T-Slotted Framing and Fittings
 
@@ -54,17 +45,10 @@ The following "elements" represent existing materials or systems that have have 
 
 - Grid Beam may be a form of this
 
-## Strut Channel Framing and Fittings
-
-## Makedo cardboard fasteners and tools
-
-## Iron Pipe
-
 ## OpenStructures (OS)
 
 - System for building things using a 4x4 cm (40x40 mm) grid
 - Clearest explanation (video): https://youtu.be/5FXTlOytJRI
--
 
 ## System 32
 
@@ -77,10 +61,6 @@ The following "elements" represent existing materials or systems that have have 
 Image(s):
 
 ![Shelf with 5 mm holes at 32 mm intervals](https://upload.wikimedia.org/wikipedia/commons/b/be/2017_UEF_Joensuu_library_06_shelf.jpg)
-
-## Threaded rods
-
-## Wood dowels
 
 ## Euro container / Eurobox
 
@@ -115,12 +95,6 @@ Image(s):
 ![application of French cleat system](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143140/CWHI_Summer2025_french_cleats_13.jpg)
 
 Photo credit: [canadianwoodworking.com](https://canadianwoodworking.com/techniques_and_tips/use-french-cleats-to-organize-your-workshop/)
-
-## Electrical conduit
-
-## Lighting stands
-
-## Camera/photography mounts
 
 ---
 <!-- CSS definitions -->
