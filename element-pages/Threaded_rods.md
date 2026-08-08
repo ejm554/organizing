@@ -1,2 +1,0 @@
-# threaded_rods
-

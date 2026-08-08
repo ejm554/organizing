@@ -1,2 +1,0 @@
-# makedo_cardboard_fasteners_and_tools
-

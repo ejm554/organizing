@@ -1,2 +1,0 @@
-# lighting_stands
-
