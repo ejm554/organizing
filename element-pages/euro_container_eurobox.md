@@ -1,2 +1,3 @@
-# euro_container_eurobox
+## Euro container / Eurobox
 
+- Compatible with Euro-pallet

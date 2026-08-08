@@ -1,2 +1,3 @@
-# t-slotted_framing_and_fittings
+## T-Slotted Framing and Fittings
 
+- Similar: Locking-Slotted Framing and Fittings
