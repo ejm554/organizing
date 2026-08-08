@@ -2,15 +2,17 @@
 
 The following "elements" represent existing materials or systems that have have potential of adopting in a system of organizing. Some might also be able to be integrated with each other.
 
+<!-- Start of Markdown table -->
 |  |  |
-|-------|-----|
-| Cardboard |  |
-| Grid Beam |  |
-| T-Slot  |  |
-| Unistrut | |
-| System 32 | ![Shelf with 5 mm holes at 32 mm intervals](https://upload.wikimedia.org/wikipedia/commons/b/be/2017_UEF_Joensuu_library_06_shelf.jpg)|
-| Systainer | ![Systainer containers from multiple manufacturers](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg/1280px-Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg) |
-| [French cleat](../element-details/french-cleat.md) | ![mounted French cleat with fixture](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143122/CWHI_Summer2025_french_cleats_1.jpg)|
+| :--- | :--- |
+| [Cardboard]() |  |
+| [French cleat](../element-details/french-cleat.md) |  |
+| [Grid Beam]() |  |
+| [Systainer]() | ![Systainer containers from multiple manufacturers](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg/1280px-Systainer-classic-makpac-festool-sys-mft-metaloc-t-loc-toolbox.jpg>) |
+| [System 32]() | ![Shelf with 5 mm holes at 32 mm intervals](<https://upload.wikimedia.org/wikipedia/commons/b/be/2017_UEF_Joensuu_library_06_shelf.jpg>) |
+| [T-Slot]() |  |
+| [Unistrut]() |  |
+<!-- End of Markdown table -->
 
 ## Grid Beam
 
