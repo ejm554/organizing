@@ -5,7 +5,7 @@ The following "elements" represent existing materials or systems that have have 
 <!-- Start of Markdown table -->
 | element | image |
 | :--- | :--- |
-| [2x4 Brackets](../element-pages/2x4_brackets.md) | ![Photo of bracket in use](<https://makerworld.bblmw.com/makerworld/model/US42421cc4dda992/design/2024-10-28_8ae5f814ef3a6.jpg>) |
+| [2x4 Brackets](../element-pages/2x4_brackets.md) | <img alt="photo of bracket in use" src="https://github.com/user-attachments/assets/0308dd32-32e7-48df-8dab-bca358b71d68" /> |
 | [Beam CNC](../element-pages/beam_cnc.md) |   |
 | [Bolt-Together Framing and Fittings](../element-pages/bolt-together_framing_and_fittings.md) |   |
 | [Camera/photography mounts](../element-pages/camera_photography_mounts.md) |   |
