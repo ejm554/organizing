@@ -6,7 +6,6 @@ The following "elements" represent existing materials or systems that have have 
 | element | image |
 | :--- | :--- |
 | [2x4 Brackets](../element-pages/2x4_brackets.md)<br>Brackets used to ease joining of 2x4 lumber | <img alt="photo of bracket in use" src="https://github.com/user-attachments/assets/0308dd32-32e7-48df-8dab-bca358b71d68" /> |
-| [Beam CNC](../element-pages/beam_cnc.md) |   |
 | [Bolt-Together Framing and Fittings](../element-pages/bolt-together_framing_and_fittings.md) |   |
 | [Camera/photography mounts](../element-pages/camera_photography_mounts.md) |   |
 | [Cardboard](../element-pages/cardboard.md) |  |
@@ -14,7 +13,7 @@ The following "elements" represent existing materials or systems that have have 
 | [Electrical conduit](../element-pages/electrical_conduit.md) |   |
 | [Euro container / Eurobox](../element-pages/euro_container_eurobox.md) |   |
 | [Euro-pallet](../element-pages/euro-pallet.md) |   |
-| [French cleat](../element-pages/french-cleat.md) |  |
+| [French cleat](../element-pages/french-cleat.md)<br>Wall molding used to hang objects| ![mounted French cleat with fixture](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143122/CWHI_Summer2025_french_cleats_1.jpg) |
 | [Grid Beam](../element-pages/grid_beam.md)<br>Modular construction system | <img alt="Photo of a wooden Grid Beam workbench" src="https://github.com/user-attachments/assets/67698290-3ba7-45a3-80df-c5f417887787" /> |
 | [Iron Pipe](../element-pages/iron_pipe.md) |   |
 | [Lighting stands](../element-pages/lighting_stands.md) |   |
