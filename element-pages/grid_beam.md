@@ -2,11 +2,27 @@
 
 ## Overview
 
-- "This modular construction system, which was developed in 1976, is based on beams with a simple geometry and a repetitive hole-pattern. The beams can be made of wood, aluminium, steel, or any other material." Source: [P2P Foundation Wiki](https://wiki.p2pfoundation.net/Grid_Beam)
+- "This modular construction system, which was developed in 1976, is based on beams with a simple geometry and a repetitive hole-pattern. The beams can be made of wood, aluminium, steel, or any other material."
+- The system beams have an equal width along two dimensions. Each beam also has a repeating hole pattern where the distance between each hole is equal to the width of the beam.
+    - Source: [P2P Foundation Wiki](https://wiki.p2pfoundation.net/Grid_Beam)
 - A related book published in 2008 goes into detail.
-    - "How to Build With Grid Beam: A Fast, Easy and Affordable System for Constructing Almost Anything" by Phil Jergenson, Richard Jergenson, Wilma Keppel
+    - _How to Build With Grid Beam: A Fast, Easy and Affordable System for Constructing Almost Anything_ by Phil Jergenson, Richard Jergenson, Wilma Keppel
     - The cover states that it is "A Mother Earth News Book for Wiser Living."
 - As of this writing (2026), it is difficult to find up-to-date info about this system. the following images and web pages might be useful for historical reference only.
+
+**Various Links**
+
+- [Basic guide](https://gridbeam.xyz/guide) that explains the system.
+    - Includes a simple online CAD "[playground](https://play.gridbeam.xyz/)" for experimenting with ideas.
+    - Appears to be associated with the Gridkit and Village Kit pages, herein.
+- [Village Kit](https://villagekit.com), a New Zealand-based organization that says, "Our minimum viable revolution is to bring Grid Beam to the masses."
+    - The kit is a library of open source modular parts, a CAD app for designing products using those parts, and an online marketplace & community.
+    - The [discussion pages](https://discuss.villagekit.com/) appear to be active as of 2026.
+- [Gridkit](https://www.gridkit.nz/), a company site that offers an array of components.
+    - They are "currently in the prototyping phase," but it is unclear how current this info is.
+    - Full of good photos of furniture and parts.
+- [Publisher's page](https://newsociety.com/book/how-to-build-with-grid-beam/) of book, _How to Build With Grid Beam_
+- [Grid Beam page](https://wiki.p2pfoundation.net/Grid_Beam)  on P2P Foundation Wiki
 
 ## Related: Bitbeam
 
