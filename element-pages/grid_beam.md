@@ -35,6 +35,9 @@
 
 <img alt="Photo of two beams connected with a compatible hinge" src="https://github.com/user-attachments/assets/45131f86-6cda-4338-84d3-e6f7554ce64e" />
 
+<img alt="1x1x1 Grid Beam cube with compatible binding barrels & screws" src="https://github.com/user-attachments/assets/82297982-58d3-4187-910c-1b00c7b04b66" />
+
+
 ## Related: Bitbeam
 
 - A tiny, open-source LEGO/Technic-compatible version of Grid Beam
