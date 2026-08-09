@@ -25,11 +25,11 @@
 - [Publisher's page](https://newsociety.com/book/how-to-build-with-grid-beam/) of book, _How to Build With Grid Beam_
 - [Grid Beam page](https://wiki.p2pfoundation.net/Grid_Beam)  on P2P Foundation Wiki
 
-<img alt="Photo of several wood beams on a table" src="https://github.com/user-attachments/assets/badc35a7-ba59-41ed-aa39-5e69ea2befa8" />
-
 <img alt="Photo of a wooden Grid Beam workbench" src="https://github.com/user-attachments/assets/67698290-3ba7-45a3-80df-c5f417887787" />
 
 <img width="564" height="750" alt="Photo of a wooden Grid Beam rack for clothing" src="https://github.com/user-attachments/assets/a92446ad-3689-4ea7-b8da-75c38772e884" />
+
+<img alt="Photo of several wood beams on a table" src="https://github.com/user-attachments/assets/badc35a7-ba59-41ed-aa39-5e69ea2befa8" />
 
 <img alt="Photo of wood beams next to compatible wheels" src="https://github.com/user-attachments/assets/c2a4f6e6-5f9a-4ec8-9bcb-581f5972e38b" />
 
