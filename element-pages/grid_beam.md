@@ -37,6 +37,7 @@
 
 <img alt="1x1x1 Grid Beam cube with compatible binding barrels & screws" src="https://github.com/user-attachments/assets/82297982-58d3-4187-910c-1b00c7b04b66" />
 
+Photo credit(s): [Gridkit](https://www.gridkit.nz/), [Cool Tools](https://kk.org/cooltools/)
 
 ## Related: Bitbeam
 
