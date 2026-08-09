@@ -15,7 +15,7 @@ The following "elements" represent existing materials or systems that have have 
 | [Euro container / Eurobox](../element-pages/euro_container_eurobox.md) |   |
 | [Euro-pallet](../element-pages/euro-pallet.md) |   |
 | [French cleat](../element-pages/french-cleat.md) |  |
-| [Grid Beam](../element-pages/grid_beam.md)<br>Modular construction system based on beams with a repetitive hole-pattern |  |
+| [Grid Beam](../element-pages/grid_beam.md)<br>Modular construction system |  |
 | [Iron Pipe](../element-pages/iron_pipe.md) |   |
 | [Lighting stands](../element-pages/lighting_stands.md) |   |
 | [Makedo cardboard fasteners and tools](../element-pages/makedo_cardboard_fasteners_and_tools.md) |   |
