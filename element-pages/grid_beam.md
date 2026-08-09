@@ -2,15 +2,16 @@
 
 ## Overview
 
-- "This modular construction system, which was developed in 1976, is based on beams with a simple geometry and a repetitive hole-pattern. The beams can be made of wood, aluminium, steel, or any other material."
-- The system beams have an equal width along two dimensions. Each beam also has a repeating hole pattern where the distance between each hole is equal to the width of the beam.
+- "This modular construction system, which was developed in 1976, is based on beams with a simple geometry and a repetitive hole-pattern. The beams can be made of wood, aluminum, steel, or any other material."
     - Source: [P2P Foundation Wiki](https://wiki.p2pfoundation.net/Grid_Beam)
+- The beams in the system have an equal width along two dimensions; it can be any length.
+- Each beam also has a repeating hole pattern where the distance between each hole is equal to the width of the beam.
 - A related book published in 2008 goes into detail.
     - _How to Build With Grid Beam: A Fast, Easy and Affordable System for Constructing Almost Anything_ by Phil Jergenson, Richard Jergenson, Wilma Keppel
     - The cover states that it is "A Mother Earth News Book for Wiser Living."
-- As of this writing (2026), it is difficult to find up-to-date info about this system. the following images and web pages might be useful for historical reference only.
+- Other than the [Village Kit site](https://villagekit.com), it is difficult to find up-to-date info about the Grid Beam system, so some of the following web pages might be useful for historical reference only.
 
-**Various Links**
+**Links**
 
 - [Basic guide](https://gridbeam.xyz/guide) that explains the system.
     - Includes a simple online CAD "[playground](https://play.gridbeam.xyz/)" for experimenting with ideas.
@@ -23,6 +24,16 @@
     - Full of good photos of furniture and parts.
 - [Publisher's page](https://newsociety.com/book/how-to-build-with-grid-beam/) of book, _How to Build With Grid Beam_
 - [Grid Beam page](https://wiki.p2pfoundation.net/Grid_Beam)  on P2P Foundation Wiki
+
+<img alt="Photo of several wood beams on a table" src="https://github.com/user-attachments/assets/badc35a7-ba59-41ed-aa39-5e69ea2befa8" />
+
+<img alt="Photo of a wooden Grid Beam workbench" src="https://github.com/user-attachments/assets/67698290-3ba7-45a3-80df-c5f417887787" />
+
+<img width="564" height="750" alt="Photo of a wooden Grid Beam rack for clothing" src="https://github.com/user-attachments/assets/a92446ad-3689-4ea7-b8da-75c38772e884" />
+
+<img alt="Photo of wood beams next to compatible wheels" src="https://github.com/user-attachments/assets/c2a4f6e6-5f9a-4ec8-9bcb-581f5972e38b" />
+
+<img alt="Photo of two beams connected with a compatible hinge" src="https://github.com/user-attachments/assets/45131f86-6cda-4338-84d3-e6f7554ce64e" />
 
 ## Related: Bitbeam
 
