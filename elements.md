@@ -17,8 +17,7 @@ The following "elements" represent existing materials or systems that have have 
 | [Grid Beam](../element-pages/grid_beam.md)<br>Modular construction system | <img alt="Photo of a wooden Grid Beam workbench" src="https://github.com/user-attachments/assets/67698290-3ba7-45a3-80df-c5f417887787" /> |
 | [Iron Pipe](../element-pages/iron_pipe.md) |   |
 | [Lighting stands](../element-pages/lighting_stands.md) |   |
-| [Makedo](../element-pages/makedo.md)<p>Cardboard fasteners and tools | <img alt="Photo of child using Makedo with cardboard" src="https://github.com/user-attachments/assets/047a0e36-a8c0-4da5-a1e7-38ee14d2f4d6" />
- |
+| [Makedo](../element-pages/makedo.md)<p>Cardboard fasteners and tools | <img alt="Photo of child using Makedo with cardboard" src="https://github.com/user-attachments/assets/047a0e36-a8c0-4da5-a1e7-38ee14d2f4d6" /> |
 | [OpenStructures (OS)](../element-pages/openstructures_os.md) |   |
 | [Palisters, Standards, Brackets](../element-pages/palisters_standards_brackets.md) |   |
 | [Press-Fit Framing and Fittings](../element-pages/press-fit_framing_and_fittings.md) |   |
