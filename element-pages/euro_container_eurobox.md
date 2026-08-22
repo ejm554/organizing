@@ -1,4 +1,4 @@
 ## Eurobox
 
 - AKA: Euro container, KLT
-- Compatible with [Euro-pallets](../euro-pallet.md)
+- Compatible with [Euro-pallet](../euro-pallet.md) element
