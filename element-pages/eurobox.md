@@ -3,9 +3,9 @@
 - Industrial stacking containers conforming to the VDA 4500 standard.
     - The standard was originally defined for the automotive industry, but was subsequently adopted across many other areas of manufacturing and the shipping industry. 
 - The most common sizes can be stacked together to fill a Euro-pallet.
-    - See [Euro-pallet](../euro-pallet.md) element.
+    - See [Euro-pallet](../euro-pallet.md) element. (broken link)
 - The 400 x 300 mm sizes and stacking height were adopted in the early 1990s for inter-stacking Systainer boxes.
-    - See [Systainer](../systainer.md) element.
+    - See [Systainer](../systainer.md) element. (broken link)
 - Other names: Euro container, Euro crate, KLT box
 - Wikipedia page: https://en.wikipedia.org/wiki/Euro_container
 
