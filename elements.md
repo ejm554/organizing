@@ -11,7 +11,7 @@ The following "elements" represent existing materials or systems that have have 
 | [Cardboard](../element-pages/cardboard.md) |  |
 | [Contraptor](../element-pages/contraptor.md) |   |
 | [Electrical conduit](../element-pages/electrical_conduit.md) |   |
-| [Euro container / Eurobox](../element-pages/euro_container_eurobox.md) |   |
+| [Eurobox](../element-pages/eurobox.md) | <img alt="Photo of Euroboxes as drawers on wood shelf" src="https://github.com/user-attachments/assets/ab7c81ad-563b-453a-8de6-03ce55df9740" /> |
 | [Euro-pallet](../element-pages/euro-pallet.md) |   |
 | [French cleat](../element-pages/french-cleat.md)<br>Wall molding used to hang objects| ![mounted French cleat with fixture](https://cdn.canadianwoodworking.com/wp-content/uploads/2025/06/04143122/CWHI_Summer2025_french_cleats_1.jpg) |
 | [Grid Beam](../element-pages/grid_beam.md)<br>Modular construction system | <img alt="Photo of a wooden Grid Beam workbench" src="https://github.com/user-attachments/assets/67698290-3ba7-45a3-80df-c5f417887787" /> |
