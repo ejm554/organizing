@@ -5,4 +5,4 @@
     - https://www.youtube.com/watch?v=Z6det-aFRe0
 - Wikipedia: Corregated fiberboard
     - https://en.wikipedia.org/wiki/Corrugated_fiberboard
-- See related tools & fasteners: MakeDo
+- See related tools & fasteners: [Makedo](../makedo.md)
