@@ -1,3 +1,4 @@
-## Euro container / Eurobox
+## Eurobox
 
-- Compatible with Euro-pallet
+- AKA: Euro container, KLT
+- Compatible with [Euro-pallets](../euro-pallet.md)
